@@ -17,17 +17,6 @@ An AI-powered customer support chatbot for ABISC Bank, built with Node.js and Cl
 - **AI:** Anthropic Claude API (claude-sonnet-4-5)
 - **Frontend:** HTML, CSS, vanilla JavaScript
 
-## Project Structure
-├── public/
-│   ├── index.html
-│   ├── style.css
-│   └── app.js
-├── routes/
-│   └── chat.js
-├── controllers/
-│   └── chatController.js
-├── .env
-└── index.js
 
 ## Key Concepts Demonstrated
 Large Language Model (LLM) Integration
