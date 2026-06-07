@@ -35,6 +35,7 @@ async function sendMessage() {
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ messages: conversationHistory }),
     });
+  
 
     const result = await response.json();
     typingDiv.remove();
